@@ -28,3 +28,58 @@ https://peerj.com/preprints/3190.pdf
 
 Statistical and Machine Learning forecasting methods: Concerns and ways forward
 https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0194889
+
+
+
+Data links:
+
+Please let me know at info@lazyprogrammer.me if you have any issues figuring out which datasets go with which lectures.
+Time Series Basics
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/SPY.csv
+
+ETS and Exponential Smoothing
+https://lazyprogrammer.me/course_files/sp500_close.csv
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/timeseries/perrin-freres-monthly-champagne.csv
+https://lazyprogrammer.me/course_files/sp500sub.csv
+
+ARIMA
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/sp500sub.csv
+https://lazyprogrammer.me/course_files/timeseries/perrin-freres-monthly-champagne.csv
+
+VARMA
+https://lazyprogrammer.me/course_files/timeseries/temperature.csv
+https://lazyprogrammer.me/course_files/timeseries/us_macro_quarterly.xlsx
+
+Machine Learning Methods
+https://lazyprogrammer.me/course_files/SPY.csv
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/timeseries/perrin-freres-monthly-champagne.csv
+https://lazyprogrammer.me/course_files/sp500sub.csv
+
+Artificial Neural Networks
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/sp500sub.csv
+https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+https://www.kaggle.com/erenaktas/human-activity-recognition 
+https://lazyprogrammer.me/course_files/timeseries/UCI-HAR.zip
+
+Convolutional Neural Networks
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/timeseries/UCI-HAR.zip
+
+Recurrent Neural Networks
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/timeseries/UCI-HAR.zip
+
+GARCH
+https://lazyprogrammer.me/course_files/SPY.csv
+
+Facebook Prophet
+https://www.kaggle.com/c/rossmann-store-sales 
+https://lazyprogrammer.me/course_files/timeseries/rossmann_train.csv 
+https://lazyprogrammer.me/course_files/airline_passengers.csv
+https://lazyprogrammer.me/course_files/timeseries/UCI-HAR.zip
+
